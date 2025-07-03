@@ -141,4 +141,4 @@ PresenteCerto improves on key points where Giftruly falls short:
 ## 📎 Prompt Integration Tip
 
 This file can be referenced in Lovable like this:
-https://github.com/pedronader/presentecerto-docs/edit/main/README.md
+https://github.com/pedronader/presentecerto-docs/blob/main/README.md
